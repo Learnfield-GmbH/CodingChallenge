@@ -4,7 +4,7 @@
 
 - Supply clean, readable automated testing
   - Definitely unit and potentially other test layers you consider useful
-  - Supply clean code (e.g. SOLID principles, etc)
+- Supply clean code (e.g. SOLID principles, etc)
 - Supply a scaleable, clean architecture
 - Supply build / make / run instructions if required
 - Preferably, provide the code in a Git repository
