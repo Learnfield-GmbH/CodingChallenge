@@ -2,8 +2,7 @@
 
 ## The following rules apply to all tests:
 
-- Supply clean, readable automated testing
-  - Definitely unit and potentially other test layers you consider useful
+- Supply a clean and readable unit testing suite
 - Supply clean code (e.g. SOLID principles, etc)
 - Supply a scaleable, clean architecture
 - Supply build / make / run instructions if required
