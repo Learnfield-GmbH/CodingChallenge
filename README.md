@@ -1,6 +1,6 @@
 # Skoove Coding Challenges
 
-## The following rules apply to all tests:
+## The following rules apply to all coding challenges:
 
 - Supply a clean and readable unit testing suite
 - Supply clean code (e.g. SOLID principles, etc)
