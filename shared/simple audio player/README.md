@@ -31,7 +31,7 @@ The application is able to load data from a server and playback the associated a
 
 ### Footnotes
 
-<sup>1</sup>You can find the [here](https://nomad5.com/data/skoove/manifest.json)
+<sup>1</sup>You can find the manifest [here](https://nomad5.com/data/skoove/manifest.json)
 
 <sup>2</sup>Update the value at an appropriate frequency
 
